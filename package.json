@@ -1,6 +1,6 @@
 {
   "name": "rahisi-type-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Type abbreviations and constants used in Rahisi.",
   "main": "dist/types.js",
   "scripts": {
