@@ -17,5 +17,13 @@
   "devDependencies": {
     "typescript": "^3.0.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muigai/rahisi_type_utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Muigai/rahisi_type_utils/issues"
+  },
+  "homepage": "https://github.com/Muigai/rahisi_type_utils#readme"
 }
