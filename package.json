@@ -2,7 +2,7 @@
   "name": "rahisi-type-utils",
   "version": "1.0.1",
   "description": "Type abbreviations and constants used in Rahisi.",
-  "main": "src/types.ts",
+  "main": "src/types.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
